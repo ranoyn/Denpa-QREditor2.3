@@ -1,0 +1,43 @@
+# Locally saved personal templates (built-in numbered templates are retained).
+_app/Denpatemplates/**/user-*.json
+# Local screenshots and test output.
+tests/
+previews/
+*.log
+*.tmp
+*.zip
+*.pdb
+# Build products belong in the release ZIP, not source commits.
+*.exe
+*.dll
+bin/
+obj/
+# Never include extracted game packages or save files.
+*.cia
+*.bch
+*.bcmdl
+savedata.bin
+*savedata.bin
+code.bin
+*.3ds
+*.3dsx
+*.cxi
+*.cci
+*.nds
+# Keep private research and administrator builds out of this repository.
+work/
+admin/
+verification/
+free-research/
+node_modules/
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini

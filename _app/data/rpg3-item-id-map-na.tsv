@@ -1,0 +1,982 @@
+reward_hex	name_na
+0000	None
+0001	Potion
+0002	Potion+
+0003	Full Potion
+0004	Potion S
+0005	Full Potion S
+0006	Antenna Power
+0007	Antenna Power+
+0008	Full Antenna
+0009	Barrier
+000A	Hypergas
+000B	Holy Water
+000C	Revive Potion
+000D	Revive Potion S
+000E	Antidote
+000F	Burn Cream
+0010	De-soaker
+0011	Cold Medicine
+0012	Mudsweeper
+0013	Purifier
+0014	Depolarizer
+0015	Hot Drink
+0016	Deparalyze
+0017	Alarm Clock
+0018	Eyewash
+0019	Sedative
+001A	Refresher
+001B	Smokescreen
+001C	Teleporter
+001D	Lamp Charge 20
+001E	Lamp Charge 40
+001F	Lamp Charge 60
+0020	Full Lamp Charge
+0021	Lamp Extension 10
+0022	Lamp Extension 30
+0023	Lamp Extension 60
+0024	Recycle Stone ☆5
+0025	Recycle Stone ☆6
+0026	Recycle Stone ☆7
+0027	Anchor Medicine
+0028	Lottery Ticket
+0029	Score Booster
+002B	Full Revive
+002C	Full Revive S
+002D	House Expander
+0037	Paint
+0038	Paint
+0039	Paint
+003A	Paint
+003B	Paint
+003C	Paint
+003D	Paint
+003E	Paint
+003F	Paint
+0040	Paint
+0041	Paint
+0042	Paint
+0043	Paint Remover
+0047	Muddy Emblem
+0048	East Emblem
+0049	West Emblem
+004A	Magic Emblem
+004B	Volcano Emblem
+004C	Typhoon Emblem
+004D	True Squelch Emblem
+004E	Mud Emblem
+004F	Water Emblem
+0050	Blizzard Emblem
+0051	Dark Wielder Emblem
+0052	Thunder Emblem
+0053	Mirage Emblem
+0054	Dark Prophet Emblem
+0055	Evil Heart Emblem
+0056	Rival Emblem
+0057	Guardian Emblem
+0058	Boss Emblem
+0059	Darkness Emblem
+005A	Jet Black Emblem
+005C	Total Dark Emblem
+005D	Pawn Emblem
+0065	Darkness Lamp
+0066	Fisheye
+0067	Stamp Card
+0068	Steel Key
+0069	Golden Key
+006A	Almighty Key
+006B	Fire Idol
+006C	Earth Idol
+006D	Water Idol
+006E	Ice Idol
+006F	Wind Idol
+0070	Thunder Idol
+0071	Holy Orb
+0072	Dark Orb
+0073	Truth Orb
+0074	Fairy Harp
+0075	Lost Item
+0076	Right of 6
+0077	Right of 8
+007A	Antenna Beam Parts
+007B	House Parts
+007C	Garden Parts
+007E	Auto Antenna Parts
+007F	Auto Antenna Up
+0084	Mansion Parts
+0085	Summoning Parts
+0087	Bazaar Parts
+0088	Rental Parts
+008A	Completion Emblem
+008B	Gardener Emblem
+008C	Angler Emblem
+008D	Interior Emblem
+008E	Stamp Emblem
+0096	Jewels
+0097	Dandelion Seed
+0098	Dandelion Seed
+0099	Dandelion Seed
+009A	Dandelion Seed
+009B	Dandelion Seed
+009C	Dandelion Seed
+009D	Dandelion Seed
+009E	Dandelion Seed
+009F	Dandelion Seed
+00A0	Dandelion Seed
+00A1	Dandelion Seed
+00A2	Dandelion Seed
+00A3	Pansy Seed
+00A4	Pansy Seed
+00A5	Pansy Seed
+00A6	Pansy Seed
+00A7	Pansy Seed
+00A8	Pansy Seed
+00A9	Pansy Seed
+00AA	Pansy Seed
+00AB	Pansy Seed
+00AC	Pansy Seed
+00AD	Pansy Seed
+00AE	Pansy Seed
+00AF	Hydrangea Seed
+00B0	Hydrangea Seed
+00B1	Hydrangea Seed
+00B2	Hydrangea Seed
+00B3	Hydrangea Seed
+00B4	Hydrangea Seed
+00B5	Hydrangea Seed
+00B6	Hydrangea Seed
+00B7	Hydrangea Seed
+00B8	Hydrangea Seed
+00B9	Hydrangea Seed
+00BA	Hydrangea Seed
+00BB	Rose Seed
+00BC	Rose Seed
+00BD	Rose Seed
+00BE	Rose Seed
+00BF	Rose Seed
+00C0	Rose Seed
+00C1	Rose Seed
+00C2	Rose Seed
+00C3	Rose Seed
+00C4	Rose Seed
+00C5	Rose Seed
+00C6	Rose Seed
+00C7	Lily Seed
+00C8	Lily Seed
+00C9	Lily Seed
+00CA	Lily Seed
+00CB	Lily Seed
+00CC	Lily Seed
+00CD	Lily Seed
+00CE	Lily Seed
+00CF	Lily Seed
+00D0	Lily Seed
+00D1	Lily Seed
+00D2	Lily Seed
+00D3	Cactus Seed
+00D4	Cactus Seed
+00D5	Cactus Seed
+00D6	Cactus Seed
+00D7	Cactus Seed
+00D8	Cactus Seed
+00D9	Cactus Seed
+00DA	Cactus Seed
+00DB	Cactus Seed
+00DC	Cactus Seed
+00DD	Cactus Seed
+00DE	Cactus Seed
+00DF	Rafflesia Seed
+00E0	Rafflesia Seed
+00E1	Rafflesia Seed
+00E2	Rafflesia Seed
+00E3	Rafflesia Seed
+00E4	Rafflesia Seed
+00E5	Rafflesia Seed
+00E6	Rafflesia Seed
+00E7	Rafflesia Seed
+00E8	Rafflesia Seed
+00E9	Rafflesia Seed
+00EA	Rafflesia Seed
+00EB	Life Seed
+00EC	AP Seed
+00ED	Power Seed
+00EE	Stamina Seed
+00EF	Speed Seed
+00F0	Fish Seed
+00F1	Melon Seed
+00F2	Lemon Seed
+00F3	Pepper Seed
+00F4	Persimmon Seed
+00F5	Bitter Gourd Seed
+00F6	Grape Seed
+00F7	Life Tree Seed
+00F8	AP Tree Seed
+00F9	Power Tree Seed
+00FA	Stamina Tree Seed
+00FB	Speed Tree Seed
+00FC	Fish Tree Seed
+0104	Rainy Week
+0105	Rainy Month
+0106	Eternal Rain
+0107	Red Chems
+0108	Light Blue Chems
+0109	Green Chems
+010A	Orange Chems
+010B	Yellow Chems
+010C	Dark Blue Chems
+010D	White Chems
+010E	Purple Chems
+010F	Silver Chems
+0110	Gold Chems
+0111	Pink Chems
+0112	Black Chems
+0113	Turbo Sprout
+0118	Dandelion
+0119	Dandelion
+011A	Dandelion
+011B	Dandelion
+011C	Dandelion
+011D	Dandelion
+011E	Dandelion
+011F	Dandelion
+0120	Dandelion
+0121	Dandelion
+0122	Dandelion
+0123	Dandelion
+0124	Pansy
+0125	Pansy
+0126	Pansy
+0127	Pansy
+0128	Pansy
+0129	Pansy
+012A	Pansy
+012B	Pansy
+012C	Pansy
+012D	Pansy
+012E	Pansy
+012F	Pansy
+0130	Hydrangea
+0131	Hydrangea
+0132	Hydrangea
+0133	Hydrangea
+0134	Hydrangea
+0135	Hydrangea
+0136	Hydrangea
+0137	Hydrangea
+0138	Hydrangea
+0139	Hydrangea
+013A	Hydrangea
+013B	Hydrangea
+013C	Rose
+013D	Rose
+013E	Rose
+013F	Rose
+0140	Rose
+0141	Rose
+0142	Rose
+0143	Rose
+0144	Rose
+0145	Rose
+0146	Rose
+0147	Rose
+0148	Lily
+0149	Lily
+014A	Lily
+014B	Lily
+014C	Lily
+014D	Lily
+014E	Lily
+014F	Lily
+0150	Lily
+0151	Lily
+0152	Lily
+0153	Lily
+0154	Cactus
+0155	Cactus
+0156	Cactus
+0157	Cactus
+0158	Cactus
+0159	Cactus
+015A	Cactus
+015B	Cactus
+015C	Cactus
+015D	Cactus
+015E	Cactus
+015F	Cactus
+0160	Rafflesia
+0161	Rafflesia
+0162	Rafflesia
+0163	Rafflesia
+0164	Rafflesia
+0165	Rafflesia
+0166	Rafflesia
+0167	Rafflesia
+0168	Rafflesia
+0169	Rafflesia
+016A	Rafflesia
+016B	Rafflesia
+016C	Life Fruit
+016D	AP Fruit
+016E	Power Fruit
+016F	Stamina Fruit
+0170	Speed Fruit
+0171	Fish Fruit
+0172	Melon
+0173	Lemon
+0174	Pepper
+0175	Persimmon
+0176	Bitter Gourd
+0177	Grape
+0178	Bamboo Shoot
+0179	Gold Bamboo Shoot
+017A	Mushroom
+017B	Matsutake Mushroom
+017C	Clovers
+017D	Four-Leaf Clover
+0191	Normal Rod
+0192	Steel Rod
+0193	Orichalcum Rod
+0194	Protect Rod
+0195	Critical Rod
+0196	Timing Rod
+0197	Miracle Rod
+0198	Jewel Rod
+019A	Normal Bait
+019B	Grouper Bait
+019C	Napoleon Bait
+019D	Tuna Bait
+019E	Shark Bait
+019F	Sunfish Bait
+01A0	Marlin Bait
+01A1	Dream Bait
+01A2	Koi Carp Bait
+01A3	Barramundi Bait
+01A4	Pond Master Bait
+01A5	GT Bait
+01A6	Fossil Bait
+01A7	Red Mullet Bait
+01A8	Divine Bait
+01A9	Ancient Bait
+01AA	Giant Bait
+01AB	King Bait
+01AC	Legendary Bait
+01B8	Sand borer
+01B9	Rockfish
+01BA	Saury
+01BB	Rice Fish
+01BC	Gudgeon
+01BD	Dolly Varden
+01BE	Pop-eyed Goldfish
+01BF	Sardine
+01C0	Shishamo
+01C1	Mackerel
+01C2	Bluegill
+01C3	Goldfish
+01C4	Bitterling
+01C5	Smelt
+01C6	Seema
+01C7	Minnow
+01C8	Dace
+01C9	Crucian
+01CA	Flounder
+01CB	Righteye Flounder
+01CC	Char
+01CD	Bass
+01CE	Splendid Alfonsino
+01CF	Sea Bream
+01D0	Piranha
+01D1	Rainbow Trout
+01D2	Smallmouth
+01D3	Black Bass
+01D4	Carp
+01D5	Catfish
+01D6	Salmon
+01D7	Snakehead
+01D8	Grouper
+01D9	Napoleonfish
+01DA	Tuna
+01DB	Shark
+01DC	Sunfish
+01DD	Marlin
+01DE	Stringfish
+01DF	Koi Carp
+01E0	Barramundi
+01E1	Pond Master
+01E2	GT
+01E3	Coelacanth
+01E4	Red Mullet
+01E5	Golden Dorado
+01E6	Pirarucu
+01E7	Giant Squid
+01E8	Giant Oarfish
+01E9	Dunkleosteus
+01F5	Tulip Roof
+01F6	Triangle Roof
+01F7	Whipped Roof
+01F8	Acorn Cap Roof
+01F9	Brick Roof
+01FA	Cup Roof
+01FB	Pointy Roof
+01FC	Round Brick Roof
+01FD	Drop Roof
+01FE	Mushroom Roof
+0209	Decorative Plant
+020A	Carnivorous Plant
+020B	Cactus
+020C	Flower Pot
+020D	Grandfather Clock
+020E	Hourglass
+020F	Old Clock
+0210	Large Mirror
+0211	Pure White Dresser
+0212	Relax Gramophone
+0213	Jukebox
+0214	Warrior's Helmet
+0215	Katana Replica
+0216	Capsule Machine
+0217	Vending Machine
+0218	Arcade Game
+0219	Crane Game
+021A	Old TV
+021B	LCD TV
+021C	Crown
+021D	Armor
+021E	Fireplace
+021F	Crystal Ball
+0220	Blackboard
+0221	Toilet
+0222	Desktop Computer
+0223	Book Tower
+0224	Harp
+0225	Piano
+0226	Welcome Board
+0227	Counter
+0228	Trunk
+0229	Classic Guitar
+022A	Japanese Drum
+022B	Coffee Set
+022C	Tea Set
+022D	Wine Set
+022E	Christmas Tree
+022F	Bunny
+0230	Jack-in-the-Box
+0231	Present Boxes
+0232	Heart Cushion
+0233	Cauldron
+0234	Snowman
+0235	Red Balloon
+0236	Yellow Balloon
+0237	Blue Balloon
+0238	Green Balloon
+0239	Orange Balloon
+023A	White Balloon
+023B	Black Balloon
+023C	Pink Balloon
+023D	Light Blue Balloon
+023E	Purple Balloon
+023F	Gold Balloon
+0240	Silver Balloon
+0241	Sunken Fireplace
+0242	Igloo
+0243	Bridal Kimono
+0244	Mosquito Oink
+0245	Barrel
+0246	Pot
+0247	Wooden Box
+0248	Sink
+0249	Fairy Pillar
+024A	Fruit Basket
+024B	Fairy Pot
+024C	Incisor Doll
+024D	Oink Rabbit Doll
+024E	Sword Replica
+024F	Treasure Chest
+0250	Mini Antenna Tower
+0251	Mini Tower of Evil
+0252	Baby Bunny
+0253	Hamster Wheel
+0254	Sandbag
+0255	Slide
+0256	Trampoline
+0257	Creepy Fence
+0258	Folding Screen
+0259	Wooden Fence
+025A	Golden Fang Doll
+025B	Scary Gramophone
+025C	Sorrowful Gramophone
+0263	Tactics Table
+0264	Block Table
+0265	Antique Table
+0266	Library Desk
+0267	School Desk
+0268	Country Desk
+0269	Stylish Table
+026A	Simple Table
+026B	Fancy Table
+026C	Spider Web Table
+026D	Tea Table
+026E	Mini Table
+026F	Dwarf Table
+0270	Fairy Table
+0271	Large Stump
+0277	Pilot Seat
+0278	Block Chair
+0279	Throne
+027A	CEO Chair
+027B	Antique Chair
+027C	Gothic Sofa
+027D	Pure White Chair
+027E	Pure White Sofa
+027F	School Chair
+0280	Country Chair
+0281	Stylish Sofa
+0282	White Stool
+0283	Black Stool
+0284	Simple Chair
+0285	Simple Sofa
+0286	Fancy Sofa
+0287	Mushroom Chair
+0288	Dwarf Chair
+0289	Fairy Chair
+028A	Small Stump
+0290	Radar Map
+0291	Block Lamp
+0292	Antique Lamp
+0293	Candlestick
+0294	Country Lamp
+0295	Standing Lamp
+0296	Large Pumpkin Lamp
+0297	Fancy Lamp
+0298	Paper Lamp
+0299	Lampstand
+029A	Small Pumpkin Lamp
+029F	Cold Sleeper
+02A0	Block Bed
+02A1	Car Bed
+02A2	Antique Bed
+02A3	Gothic Bed
+02A4	Pure White Bed
+02A5	Country Bed
+02A6	Stylish Bed
+02A7	Fancy Bed
+02A8	Log Bed
+02A9	Dwarf Bed
+02AA	Fairy Bed
+02B3	Spaceship Floor
+02B4	Moon Floor
+02B5	Block Floor
+02B6	Puzzle Carpet
+02B7	Red Carpet
+02B8	Estate carpet
+02B9	Round Carpet
+02BA	Elegant Carpet
+02BB	Gothic Carpet
+02BC	Beginner Floor
+02BD	Simple Floor
+02BE	Black and White Floor
+02BF	Country Floor
+02C0	Classroom Floor
+02C1	Cloud Floor
+02C2	Desert Floor
+02C3	Concrete Floor
+02C4	Log House Floor
+02C5	Polka-dot Floor
+02C6	Floral Floor
+02C7	Striped Floor
+02C8	White Wood Floor
+02C9	Grey Carpet
+02CA	Crime Scene Floor
+02CB	Deck Floor
+02CC	Treasure Floor
+02CD	Prison Floor
+02CE	Fancy Floor
+02CF	Christmas Floor
+02D0	Halloween Floor
+02D1	Cheerful Floor
+02D2	Grassy Floor
+02D3	Ocean Floor
+02D4	Leafy Floor
+02D5	Snowy Floor
+02D6	Cookie Floor
+02D7	Tatami
+02D8	Board Floor
+02D9	White Floor
+02DA	Dungeon Floor
+02DB	Nostalgic Floor
+02DC	Villain's Floor
+02DD	Ruins Floor
+02DE	Dwarf Floor
+02DF	Fairy Floor
+02E0	Coliseum Floor
+02E5	Spaceship Wall
+02E6	Starry Wall
+02E7	Block Wall
+02E8	Colorful Wall
+02E9	Poster Wall
+02EA	Palace Wall
+02EB	Estate Wall
+02EC	Bookcase Wall
+02ED	Elegant Wall
+02EE	Gothic Wall
+02EF	Beginner Wall
+02F0	Simple Wall
+02F1	Black and White Wall
+02F2	Country Wall
+02F3	Classroom Wall
+02F4	Blue Sky Wall
+02F5	Sand Dune Wall
+02F6	Concrete Wall
+02F7	Log Wall
+02F8	Polka-dot Wall
+02F9	Floral Wall
+02FA	Striped Wall
+02FB	White Wood Wall
+02FC	Brick Wall
+02FD	Office Window
+02FE	Off-limits Wall
+02FF	Ocean Wall
+0300	Treasure Wall
+0301	Prison Wall
+0302	Cutie Wall
+0303	Fancy Wall
+0304	Christmas Wall
+0305	Halloween Wall
+0306	Cheerful Wall
+0307	Forest Wall
+0308	Sea Palace Wall
+0309	Autumn Wall
+030A	Snowy Wall
+030B	Candy Wall
+030C	Screen Wall
+030D	Paper Wall
+030E	White Wall
+030F	Dungeon Wall
+0310	Nostalgic Wall
+0311	Villain's Wall
+0312	Ruins Wall
+0313	Dwarf Wall
+0314	Fairy Wall
+0315	Coliseum Wall
+0321	Heart Choker
+0322	Heart Brooch
+0323	Heart Pendant
+0324	Magic Choker
+0325	Magic Brooch
+0326	Magic Pendant
+0327	Golden Choker
+0328	Golden Brooch
+0329	Gold Pendant
+032A	Lucky Charm
+032B	Happy Brooch
+032C	Happy Pendant
+032D	Royal Scarf
+032E	Fortune Charm
+032F	Lucky Brooch
+0330	Lucky Pendant
+0331	Wedding Choker
+0332	Lucky Star
+0333	Lucky Stars
+0334	Secret Star
+0335	Double Secret
+0336	Triple Secret
+0337	Healing Ribbon
+0338	Healing Scarf
+0339	Healing Pendant
+033A	Panda Collar
+033B	Cat Collar
+033C	Fruit Badge
+033D	Witch Badge
+033F	Antenna Down Badge
+0340	Nurse Badge
+0341	Doctor Symbol
+0342	Antidote Scarf
+0343	Heatproof Scarf
+0344	Waterproof Scarf
+0345	Immunity Scarf
+0346	Mudproof Scarf
+0347	Curseproof Scarf
+0348	Rubber Scarf
+0349	Antifrost Scarf
+034A	Shockproof Scarf
+034B	Wakeup Scarf
+034C	Vision Scarf
+034D	Unwavering Scarf
+034E	Life Support Scarf
+034F	Mystery Scarf
+0350	Antidote Ribbon
+0351	Heatproof Ribbon
+0352	Waterproof Ribbon
+0353	Life Support Ribbon
+0354	Mudproof Ribbon
+0355	Curseproof Ribbon
+0356	Rubber Ribbon
+0357	Antifrost Ribbon
+0358	Shockproof Ribbon
+0359	Wakeup Ribbon
+035A	Vision Ribbon
+035B	Unwavering Ribbon
+035C	Life Support Ribbon
+035D	Fire Amulet
+035E	Water Amulet
+035F	Earth Amulet
+0360	Wind Amulet
+0361	Ice Amulet
+0362	Electric Amulet
+0363	Light Amulet
+0364	Darkness Amulet
+0365	Christmas Corsage
+0366	Halloween Ribbon
+0367	Dragon Pendant
+0368	King of Evil Scarf
+0369	Sheer Collar
+036A	Jeweled Necklace
+036B	Gothic Choker
+036C	Robot Switch
+036D	Ninja Muffler
+036E	Necktie
+037B	Fire Cape
+037C	Water Cape
+037D	Wind Cape
+037E	Earth Cape
+037F	Ice Cape
+0380	Electric Cape
+0381	Light Cape
+0382	Dark Cape
+0383	Bat Wings
+0384	Vampire Cape
+0385	Murasame
+0386	Witch Cape
+0387	Witch Broom
+0388	Magic Wand
+0389	Monster Tail
+038A	Ninja Star
+038B	Diamond
+038C	Exorcist Staff
+038D	Stone Statue
+038E	Scythe
+038F	Lucky Arrow
+0390	Toy Sword
+0391	Dragon Wings
+0392	Legendary Sword
+0393	Porcelain Bottle
+0394	Animal Tail
+0395	Shield
+0396	Hero Cape
+0397	Dumplings
+0398	Thunder Drum
+0399	Rusty Sword
+039A	Grog
+039B	Dummy
+039C	Spikey Shell
+039D	Turtle Shell
+039E	Large Bell
+039F	Trident
+03A0	Royal Cape
+03A1	Angel Wings
+03A2	Devil Wings
+03A3	Fairy Wings
+03A4	Butterfly Wings
+03A5	Bug Wings
+03A6	Daruma Doll
+03A7	Robot Engine
+03A8	Anchor
+03A9	Cupid Bow
+03AA	Lollypop
+03AB	Toy Hammer
+03AC	Pouch
+03AD	Wrapper
+03AE	Santa Bag
+03AF	Halloween Cape
+03B0	Oink Tail
+03B1	King of Evil Cape
+03B2	Gilded Cape
+03B3	Wedding Skirt
+03B4	Sheer Cape
+03B5	Jeweled Mirror
+03B6	Cat Tail
+03B7	Panda Tail
+03B8	Gothic Ribbon
+03B9	Pine Ornament
+03BA	Business Bag
+03BB	Syringe
+03BC	Shachihoko
+03BD	Homerun Bat
+03BE	Will-o'-the-wisp
+03CB	Power Bracelet
+03CC	Power Gloves
+03CD	Robot Drill
+03CE	Damage 4 Gloves
+03CF	Octopus Arms
+03D0	Fancy Watch
+03D1	Critical Bracelet
+03D2	Critical Gloves
+03D3	Fire Bracelet
+03D4	Water Bracelet
+03D5	Earth Bracelet
+03D6	Wind Bracelet
+03D7	Ice Bracelet
+03D8	Light Bracelet
+03D9	Shock Bracelet
+03DA	Dark Bracelet
+03DB	Fire Gloves
+03DC	Water Gloves
+03DD	Earth Gloves
+03DE	Wind Gloves
+03DF	Ice Gloves
+03E0	Light Gloves
+03E1	Shock Gloves
+03E2	Dark Gloves
+03E3	Ninja Gauntlets
+03E4	Witch Sleeves
+03E5	Numbing Claws
+03E6	Sleepy Gloves
+03E7	Sharp Claws
+03E8	Razorsharp Claws
+03E9	Death Bracelet
+03EA	Killer Gauntlets
+03EB	Dragon Claws
+03EC	Robber Bracelet
+03ED	Cat paws
+03EE	Panda Paws
+03EF	White Pads
+03F0	Black Pads
+03F1	Doctor Gloves
+03F2	Christmas Gloves
+03F3	Halloween Gloves
+03F4	Royal Sleeves
+03F5	King of Evil Sleeves
+03F6	Gilded Sleeves
+03F7	Wedding Gloves
+03F8	Sheer Gloves
+03F9	Jeweled Gloves
+03FA	Gothic Sleeves
+03FB	Hero Gloves
+03FC	Baseball Mitt
+0407	Speed Anklet
+0408	Speed Shoes
+0409	Speed Boots
+040A	Ballet Shoes
+040B	Ice Skates
+040C	Ninja Shoes
+040D	Rocket Boots
+040E	Cat Feet
+040F	Camouflage Boots
+0410	Roller Skates
+0411	Fire Boots
+0412	Water Boots
+0413	Wind Boots
+0414	Earth Boots
+0415	Ice Boots
+0416	Electric Boots
+0417	Light Boots
+0418	Dark Boots
+0419	Cleats
+041A	Early Bird Boots
+041B	Kung Fu Shoes
+041C	Pointy Shoes
+041D	Witch Boots
+041E	Monster Legs
+041F	Christmas Boots
+0420	Halloween Boots
+0421	Royal Shoes
+0422	Gilded Shoes
+0423	King of Evil Legs
+0424	Wedding Anklet
+0425	Dragon Boots
+0426	Sheer Boots
+0427	Jeweled Shoes
+0428	Gothic Anklet
+0429	Panda Legs
+042A	Robot Legs
+042B	Hero Boots
+042C	Wooden Sandals
+0439	Stripes
+043A	Borders
+043B	Tricolor
+043C	Checkers
+043D	Houndstooth
+043E	Argyle
+043F	Gingham
+0440	Tiles
+0441	Tartan
+0442	Blue Bird
+0443	Flames
+0444	Water
+0445	Wind
+0446	Dirt
+0447	Ice
+0448	Electricity
+0449	Light
+044A	Darkness
+044B	Volcano
+044C	Waterfall
+044D	Storm
+044E	Earth
+044F	Iceberg
+0450	Lightning
+0451	Flash
+0452	Shadow
+0453	Starry Sky
+0454	Ornament
+0455	Natural
+0456	Life Print
+0457	Power Print
+0458	Stamina Print
+0459	Speed Print
+045A	AP Print
+045B	Target
+045C	Poison Skull
+045D	Fatal Skull
+045E	Burn
+045F	Soaked
+0460	Cold Virus
+0461	Muddy
+0462	Cursed
+0463	Shock
+0464	Frozen
+0465	Fire Target
+0466	Ice Target
+0467	Wind Target
+0468	Earth Target
+0469	Electric Target
+046A	Water Target
+046B	Light Target
+046C	Dark Target
+046D	Lightning Rod
+046E	Close Call
+046F	Clovers (Clothes)
+0470	Hearts
+0471	Clubs
+0472	Diamonds
+0473	Spades
+0474	Temptation
+0475	Incisor Print
+0476	Robot
+0477	Sun
+0478	Hero Suit
+0479	Love
+047A	Dwarf Print
+047B	First Dwarf
+047C	Stars
+047D	Number 1
+047E	Mirror Suit
+047F	King
+0480	King of Evil Print
+0481	Gilded Clothes
+0482	Wedding Clothes
+0483	Dragon Scales
+0484	Sheer Suit
+0485	Jewelry
+0486	Calico
+0487	Goth Lolita
+0488	Panda
+0489	Witch Robe
+048A	Ninja
+048B	Kimono
+048C	Apron
+048D	Buttoned Shirt
+048E	Macho
+048F	Fruit
+0490	Baseball
+0491	Soccer
+0492	Camouflage

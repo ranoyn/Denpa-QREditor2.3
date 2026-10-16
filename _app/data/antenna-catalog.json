@@ -1,0 +1,1429 @@
+{
+  "source": "Denpa3Editor",
+  "abilities": [
+    {
+      "code": "00",
+      "name": "None"
+    },
+    {
+      "code": "01",
+      "name": "Treasure"
+    },
+    {
+      "code": "02",
+      "name": "Rare Treasure"
+    },
+    {
+      "code": "03",
+      "name": "Gold"
+    },
+    {
+      "code": "04",
+      "name": "Stealthy"
+    },
+    {
+      "code": "05",
+      "name": "Heal"
+    },
+    {
+      "code": "06",
+      "name": "Heal (All)"
+    },
+    {
+      "code": "07",
+      "name": "Revive"
+    },
+    {
+      "code": "08",
+      "name": "Revive (All)"
+    },
+    {
+      "code": "09",
+      "name": "Antidote"
+    },
+    {
+      "code": "0A",
+      "name": "Cure Burn"
+    },
+    {
+      "code": "0B",
+      "name": "Dry"
+    },
+    {
+      "code": "0C",
+      "name": "Cure Sniffles"
+    },
+    {
+      "code": "0D",
+      "name": "Mud Off"
+    },
+    {
+      "code": "0E",
+      "name": "Purify"
+    },
+    {
+      "code": "0F",
+      "name": "Cure Shock"
+    },
+    {
+      "code": "10",
+      "name": "Hot Blanket"
+    },
+    {
+      "code": "11",
+      "name": "Mobilize"
+    },
+    {
+      "code": "12",
+      "name": "Awaken"
+    },
+    {
+      "code": "13",
+      "name": "Eye drops"
+    },
+    {
+      "code": "14",
+      "name": "Invincible"
+    },
+    {
+      "code": "15",
+      "name": "Excite"
+    },
+    {
+      "code": "16",
+      "name": "Steroids"
+    },
+    {
+      "code": "17",
+      "name": "Reflect"
+    },
+    {
+      "code": "18",
+      "name": "Rage"
+    },
+    {
+      "code": "19",
+      "name": "Rage (All)"
+    },
+    {
+      "code": "1A",
+      "name": "Wall"
+    },
+    {
+      "code": "1B",
+      "name": "Wall (All)"
+    },
+    {
+      "code": "1C",
+      "name": "Haste"
+    },
+    {
+      "code": "1D",
+      "name": "Haste (All)"
+    },
+    {
+      "code": "1E",
+      "name": "Dodge"
+    },
+    {
+      "code": "1F",
+      "name": "Dodge (All)"
+    },
+    {
+      "code": "20",
+      "name": "Poison Signal"
+    },
+    {
+      "code": "21",
+      "name": "Fatal"
+    },
+    {
+      "code": "22",
+      "name": "Lullaby"
+    },
+    {
+      "code": "23",
+      "name": "Paralyze"
+    },
+    {
+      "code": "24",
+      "name": "Blindfold"
+    },
+    {
+      "code": "25",
+      "name": "Breath Plug"
+    },
+    {
+      "code": "26",
+      "name": "Weaken"
+    },
+    {
+      "code": "27",
+      "name": "Weaken (All)"
+    },
+    {
+      "code": "28",
+      "name": "Insult"
+    },
+    {
+      "code": "29",
+      "name": "Insult (All)"
+    },
+    {
+      "code": "2A",
+      "name": "Chain"
+    },
+    {
+      "code": "2B",
+      "name": "Chain (All)"
+    },
+    {
+      "code": "2C",
+      "name": "Fireball"
+    },
+    {
+      "code": "2D",
+      "name": "Fire Cracker"
+    },
+    {
+      "code": "2E",
+      "name": "Forest Fire"
+    },
+    {
+      "code": "2F",
+      "name": "Icicle"
+    },
+    {
+      "code": "30",
+      "name": "On The Rocks"
+    },
+    {
+      "code": "31",
+      "name": "Hailstorm"
+    },
+    {
+      "code": "32",
+      "name": "Whirlwind"
+    },
+    {
+      "code": "33",
+      "name": "Breeze"
+    },
+    {
+      "code": "34",
+      "name": "Twister"
+    },
+    {
+      "code": "35",
+      "name": "Falling Rock"
+    },
+    {
+      "code": "36",
+      "name": "Pebbles"
+    },
+    {
+      "code": "37",
+      "name": "Magnitude 3"
+    },
+    {
+      "code": "38",
+      "name": "Static"
+    },
+    {
+      "code": "39",
+      "name": "Lightning"
+    },
+    {
+      "code": "3A",
+      "name": "100 Volts"
+    },
+    {
+      "code": "3B",
+      "name": "Water Gun"
+    },
+    {
+      "code": "3C",
+      "name": "Bucket of Water"
+    },
+    {
+      "code": "3D",
+      "name": "High Wave"
+    },
+    {
+      "code": "3E",
+      "name": "Weak Flash"
+    },
+    {
+      "code": "3F",
+      "name": "Spotlight"
+    },
+    {
+      "code": "40",
+      "name": "Winter Sunlight"
+    },
+    {
+      "code": "41",
+      "name": "Scare"
+    },
+    {
+      "code": "42",
+      "name": "Dark Ball"
+    },
+    {
+      "code": "43",
+      "name": "Dark Mist"
+    },
+    {
+      "code": "44",
+      "name": "Catch"
+    }
+  ],
+  "appearances": [
+    {
+      "code": "00",
+      "name": "None",
+      "ability": "None",
+      "abilityCode": "00"
+    },
+    {
+      "code": "01",
+      "name": "Antenna Root",
+      "ability": "Revive",
+      "abilityCode": "07"
+    },
+    {
+      "code": "02",
+      "name": "Treasure x2",
+      "ability": "Treasure",
+      "abilityCode": "01"
+    },
+    {
+      "code": "03",
+      "name": "Treasure x3",
+      "ability": "Treasure",
+      "abilityCode": "01"
+    },
+    {
+      "code": "04",
+      "name": "Treasure x5",
+      "ability": "Treasure",
+      "abilityCode": "01"
+    },
+    {
+      "code": "05",
+      "name": "Rare Treasure x2",
+      "ability": "Rare Treasure",
+      "abilityCode": "02"
+    },
+    {
+      "code": "06",
+      "name": "Rare Treasure x3",
+      "ability": "Rare Treasure",
+      "abilityCode": "02"
+    },
+    {
+      "code": "07",
+      "name": "Rare Treasure x5",
+      "ability": "Rare Treasure",
+      "abilityCode": "02"
+    },
+    {
+      "code": "08",
+      "name": "Gold x2",
+      "ability": "Gold",
+      "abilityCode": "03"
+    },
+    {
+      "code": "09",
+      "name": "Gold x3",
+      "ability": "Gold",
+      "abilityCode": "03"
+    },
+    {
+      "code": "0A",
+      "name": "Gold x5",
+      "ability": "Gold",
+      "abilityCode": "03"
+    },
+    {
+      "code": "0B",
+      "name": "Stealthy",
+      "ability": "Stealthy",
+      "abilityCode": "04"
+    },
+    {
+      "code": "0C",
+      "name": "Stealthier",
+      "ability": "Stealthy",
+      "abilityCode": "04"
+    },
+    {
+      "code": "0D",
+      "name": "Stealhiest",
+      "ability": "Stealthy",
+      "abilityCode": "04"
+    },
+    {
+      "code": "0E",
+      "name": "Tiny Heal",
+      "ability": "Heal",
+      "abilityCode": "05"
+    },
+    {
+      "code": "0F",
+      "name": "Medium Heal",
+      "ability": "Heal",
+      "abilityCode": "05"
+    },
+    {
+      "code": "10",
+      "name": "Full Heal",
+      "ability": "Heal",
+      "abilityCode": "05"
+    },
+    {
+      "code": "11",
+      "name": "Tiny Heal (All)",
+      "ability": "Heal (All)",
+      "abilityCode": "06"
+    },
+    {
+      "code": "12",
+      "name": "Medium Heal (All)",
+      "ability": "Heal (All)",
+      "abilityCode": "06"
+    },
+    {
+      "code": "13",
+      "name": "Full Heal (All)",
+      "ability": "Heal (All)",
+      "abilityCode": "06"
+    },
+    {
+      "code": "14",
+      "name": "Small Revive",
+      "ability": "Revive",
+      "abilityCode": "07"
+    },
+    {
+      "code": "15",
+      "name": "Revive",
+      "ability": "Revive",
+      "abilityCode": "07"
+    },
+    {
+      "code": "16",
+      "name": "Full Revive",
+      "ability": "Revive",
+      "abilityCode": "07"
+    },
+    {
+      "code": "17",
+      "name": "Small Revive (All)",
+      "ability": "Revive (All)",
+      "abilityCode": "08"
+    },
+    {
+      "code": "18",
+      "name": "Revive  (All)",
+      "ability": "Revive (All)",
+      "abilityCode": "08"
+    },
+    {
+      "code": "19",
+      "name": "Full Revive (All)",
+      "ability": "Revive (All)",
+      "abilityCode": "08"
+    },
+    {
+      "code": "1A",
+      "name": "Antidote",
+      "ability": "Antidote",
+      "abilityCode": "09"
+    },
+    {
+      "code": "1B",
+      "name": "Antidote (All)",
+      "ability": "Antidote",
+      "abilityCode": "09"
+    },
+    {
+      "code": "1C",
+      "name": "Cure Burn",
+      "ability": "Cure Burn",
+      "abilityCode": "0A"
+    },
+    {
+      "code": "1D",
+      "name": "Cure Burn (All)",
+      "ability": "Cure Burn",
+      "abilityCode": "0A"
+    },
+    {
+      "code": "1E",
+      "name": "Dry",
+      "ability": "Dry",
+      "abilityCode": "0B"
+    },
+    {
+      "code": "1F",
+      "name": "Dry (All)",
+      "ability": "Dry",
+      "abilityCode": "0B"
+    },
+    {
+      "code": "20",
+      "name": "Cure Sniffles",
+      "ability": "Cure Sniffles",
+      "abilityCode": "0C"
+    },
+    {
+      "code": "21",
+      "name": "Cure Sniffles (All)",
+      "ability": "Cure Sniffles",
+      "abilityCode": "0C"
+    },
+    {
+      "code": "22",
+      "name": "Mud Off",
+      "ability": "Mud Off",
+      "abilityCode": "0D"
+    },
+    {
+      "code": "23",
+      "name": "Mud Off (All)",
+      "ability": "Mud Off",
+      "abilityCode": "0D"
+    },
+    {
+      "code": "24",
+      "name": "Purify",
+      "ability": "Purify",
+      "abilityCode": "0E"
+    },
+    {
+      "code": "25",
+      "name": "Purify (All)",
+      "ability": "Purify",
+      "abilityCode": "0E"
+    },
+    {
+      "code": "26",
+      "name": "Cure Shock",
+      "ability": "Cure Shock",
+      "abilityCode": "0F"
+    },
+    {
+      "code": "27",
+      "name": "Cure Shock (All)",
+      "ability": "Cure Shock",
+      "abilityCode": "0F"
+    },
+    {
+      "code": "28",
+      "name": "Hot Blanket",
+      "ability": "Hot Blanket",
+      "abilityCode": "10"
+    },
+    {
+      "code": "29",
+      "name": "Hot Blanket (All)",
+      "ability": "Hot Blanket",
+      "abilityCode": "10"
+    },
+    {
+      "code": "2A",
+      "name": "Mobilize",
+      "ability": "Mobilize",
+      "abilityCode": "11"
+    },
+    {
+      "code": "2B",
+      "name": "Mobilize (All)",
+      "ability": "Mobilize",
+      "abilityCode": "11"
+    },
+    {
+      "code": "2C",
+      "name": "Awaken",
+      "ability": "Awaken",
+      "abilityCode": "12"
+    },
+    {
+      "code": "2D",
+      "name": "Awaken (All)",
+      "ability": "Awaken",
+      "abilityCode": "12"
+    },
+    {
+      "code": "2E",
+      "name": "Eye Drops",
+      "ability": "Eye Drops",
+      "abilityCode": "13"
+    },
+    {
+      "code": "2F",
+      "name": "Eye Drops (All)",
+      "ability": "Eye Drops",
+      "abilityCode": "13"
+    },
+    {
+      "code": "30",
+      "name": "Invincible",
+      "ability": "Invincible",
+      "abilityCode": "14"
+    },
+    {
+      "code": "31",
+      "name": "Invincible (All)",
+      "ability": "Invincible",
+      "abilityCode": "14"
+    },
+    {
+      "code": "32",
+      "name": "Excite (All)",
+      "ability": "Excite",
+      "abilityCode": "15"
+    },
+    {
+      "code": "33",
+      "name": "Steroids",
+      "ability": "Steroids",
+      "abilityCode": "16"
+    },
+    {
+      "code": "34",
+      "name": "Steroids (All)",
+      "ability": "Steroids",
+      "abilityCode": "16"
+    },
+    {
+      "code": "35",
+      "name": "Reflect",
+      "ability": "Reflect",
+      "abilityCode": "17"
+    },
+    {
+      "code": "36",
+      "name": "Reflect (All)",
+      "ability": "Reflect",
+      "abilityCode": "17"
+    },
+    {
+      "code": "37",
+      "name": "Tiny Rage",
+      "ability": "Rage",
+      "abilityCode": "18"
+    },
+    {
+      "code": "38",
+      "name": "Rage",
+      "ability": "Rage",
+      "abilityCode": "18"
+    },
+    {
+      "code": "39",
+      "name": "Great Rage",
+      "ability": "Rage",
+      "abilityCode": "18"
+    },
+    {
+      "code": "3A",
+      "name": "Tiny Rage (All)",
+      "ability": "Rage (All)",
+      "abilityCode": "19"
+    },
+    {
+      "code": "3B",
+      "name": "Rage (All)",
+      "ability": "Rage (All)",
+      "abilityCode": "19"
+    },
+    {
+      "code": "3C",
+      "name": "Great Rage (All)",
+      "ability": "Rage (All)",
+      "abilityCode": "19"
+    },
+    {
+      "code": "3D",
+      "name": "Tiny Wall",
+      "ability": "Wall",
+      "abilityCode": "1A"
+    },
+    {
+      "code": "3E",
+      "name": "Wall",
+      "ability": "Wall",
+      "abilityCode": "1A"
+    },
+    {
+      "code": "3F",
+      "name": "Great Wall",
+      "ability": "Wall",
+      "abilityCode": "1A"
+    },
+    {
+      "code": "40",
+      "name": "Tiny Wall (All)",
+      "ability": "Wall (All)",
+      "abilityCode": "1B"
+    },
+    {
+      "code": "41",
+      "name": "Wall (All)",
+      "ability": "Wall (All)",
+      "abilityCode": "1B"
+    },
+    {
+      "code": "42",
+      "name": "Great Wall (All)",
+      "ability": "Wall (All)",
+      "abilityCode": "1B"
+    },
+    {
+      "code": "43",
+      "name": "Tiny Haste",
+      "ability": "Haste",
+      "abilityCode": "1C"
+    },
+    {
+      "code": "44",
+      "name": "Haste",
+      "ability": "Haste",
+      "abilityCode": "1C"
+    },
+    {
+      "code": "45",
+      "name": "Great Haste",
+      "ability": "Haste",
+      "abilityCode": "1C"
+    },
+    {
+      "code": "46",
+      "name": "Tiny Haste (All)",
+      "ability": "Haste (All)",
+      "abilityCode": "1D"
+    },
+    {
+      "code": "47",
+      "name": "Haste (All)",
+      "ability": "Haste (All)",
+      "abilityCode": "1D"
+    },
+    {
+      "code": "48",
+      "name": "Great Haste (All)",
+      "ability": "Haste (All)",
+      "abilityCode": "1D"
+    },
+    {
+      "code": "49",
+      "name": "Tiny Dodge",
+      "ability": "Dodge",
+      "abilityCode": "1E"
+    },
+    {
+      "code": "4A",
+      "name": "Dodge",
+      "ability": "Dodge",
+      "abilityCode": "1E"
+    },
+    {
+      "code": "4B",
+      "name": "Great Dodge",
+      "ability": "Dodge",
+      "abilityCode": "1E"
+    },
+    {
+      "code": "4C",
+      "name": "Tiny Dodge (All)",
+      "ability": "Dodge (All)",
+      "abilityCode": "1F"
+    },
+    {
+      "code": "4D",
+      "name": "Dodge (All)",
+      "ability": "Dodge (All)",
+      "abilityCode": "1F"
+    },
+    {
+      "code": "4E",
+      "name": "Great Dodge (All)",
+      "ability": "Dodge (All)",
+      "abilityCode": "1F"
+    },
+    {
+      "code": "4F",
+      "name": "Poison Signal",
+      "ability": "Poison Signal",
+      "abilityCode": "20"
+    },
+    {
+      "code": "50",
+      "name": "Poison Wave",
+      "ability": "Poison Signal",
+      "abilityCode": "20"
+    },
+    {
+      "code": "51",
+      "name": "Fatal",
+      "ability": "Fatal",
+      "abilityCode": "21"
+    },
+    {
+      "code": "52",
+      "name": "Fatal (All)",
+      "ability": "Fatal",
+      "abilityCode": "21"
+    },
+    {
+      "code": "53",
+      "name": "Lullably",
+      "ability": "Lullaby",
+      "abilityCode": "22"
+    },
+    {
+      "code": "54",
+      "name": "Lullably (All)",
+      "ability": "Lullaby",
+      "abilityCode": "22"
+    },
+    {
+      "code": "55",
+      "name": "Paralyze",
+      "ability": "Paralyze",
+      "abilityCode": "23"
+    },
+    {
+      "code": "56",
+      "name": "Paralyze (All)",
+      "ability": "Paralyze",
+      "abilityCode": "23"
+    },
+    {
+      "code": "57",
+      "name": "Blindfold ",
+      "ability": "Blindfold",
+      "abilityCode": "24"
+    },
+    {
+      "code": "58",
+      "name": "Blindfold (All)",
+      "ability": "Blindfold",
+      "abilityCode": "24"
+    },
+    {
+      "code": "59",
+      "name": "Breath Plug",
+      "ability": "Breath Plug",
+      "abilityCode": "25"
+    },
+    {
+      "code": "5A",
+      "name": "Breath Plug (All)",
+      "ability": "Breath Plug",
+      "abilityCode": "25"
+    },
+    {
+      "code": "5B",
+      "name": "Tiny Weaken",
+      "ability": "Weaken",
+      "abilityCode": "26"
+    },
+    {
+      "code": "5C",
+      "name": "Weaken",
+      "ability": "Weaken",
+      "abilityCode": "26"
+    },
+    {
+      "code": "5D",
+      "name": "Great Weaken",
+      "ability": "Weaken",
+      "abilityCode": "26"
+    },
+    {
+      "code": "5E",
+      "name": "Tiny Weaken (All)",
+      "ability": "Weaken (All)",
+      "abilityCode": "27"
+    },
+    {
+      "code": "5F",
+      "name": "Weaken (All)",
+      "ability": "Weaken (All)",
+      "abilityCode": "27"
+    },
+    {
+      "code": "60",
+      "name": "Great Weaken (All)",
+      "ability": "Weaken (All)",
+      "abilityCode": "27"
+    },
+    {
+      "code": "61",
+      "name": "Tiny Insult",
+      "ability": "Insult",
+      "abilityCode": "28"
+    },
+    {
+      "code": "62",
+      "name": "Insult",
+      "ability": "Insult",
+      "abilityCode": "28"
+    },
+    {
+      "code": "63",
+      "name": "Great Insult",
+      "ability": "Insult",
+      "abilityCode": "28"
+    },
+    {
+      "code": "64",
+      "name": "Tiny Insult (All)",
+      "ability": "Insult (All)",
+      "abilityCode": "29"
+    },
+    {
+      "code": "65",
+      "name": "Insult (All)",
+      "ability": "Insult (All)",
+      "abilityCode": "29"
+    },
+    {
+      "code": "66",
+      "name": "Great Insult (All)",
+      "ability": "Insult (All)",
+      "abilityCode": "29"
+    },
+    {
+      "code": "67",
+      "name": "Tiny Chain",
+      "ability": "Chain",
+      "abilityCode": "2A"
+    },
+    {
+      "code": "68",
+      "name": "Chain",
+      "ability": "Chain",
+      "abilityCode": "2A"
+    },
+    {
+      "code": "69",
+      "name": "Great Chain",
+      "ability": "Chain",
+      "abilityCode": "2A"
+    },
+    {
+      "code": "6A",
+      "name": "Tiny Chain (All)",
+      "ability": "Chain (All)",
+      "abilityCode": "2B"
+    },
+    {
+      "code": "6B",
+      "name": "Chain (All)",
+      "ability": "Chain (All)",
+      "abilityCode": "2B"
+    },
+    {
+      "code": "6C",
+      "name": "Great Chain (All)",
+      "ability": "Chain (All)",
+      "abilityCode": "2B"
+    },
+    {
+      "code": "6D",
+      "name": "Fireball",
+      "ability": "Fireball",
+      "abilityCode": "2C"
+    },
+    {
+      "code": "6E",
+      "name": "Flame Thrower",
+      "ability": "Fireball",
+      "abilityCode": "2C"
+    },
+    {
+      "code": "6F",
+      "name": "Rising Flames",
+      "ability": "Fireball",
+      "abilityCode": "2C"
+    },
+    {
+      "code": "70",
+      "name": "Fire Cracker",
+      "ability": "Fire Cracker",
+      "abilityCode": "2D"
+    },
+    {
+      "code": "71",
+      "name": "Explosion",
+      "ability": "Fire Cracker",
+      "abilityCode": "2D"
+    },
+    {
+      "code": "72",
+      "name": "Big Bang",
+      "ability": "Fire Cracker",
+      "abilityCode": "2D"
+    },
+    {
+      "code": "73",
+      "name": "Forest Fire",
+      "ability": "Forest Fire",
+      "abilityCode": "2E"
+    },
+    {
+      "code": "74",
+      "name": "Magma Wave",
+      "ability": "Forest Fire",
+      "abilityCode": "2E"
+    },
+    {
+      "code": "75",
+      "name": "Fire Wall",
+      "ability": "Forest Fire",
+      "abilityCode": "2E"
+    },
+    {
+      "code": "76",
+      "name": "Icicle",
+      "ability": "Icicle",
+      "abilityCode": "2F"
+    },
+    {
+      "code": "77",
+      "name": "Ice Blade",
+      "ability": "Icicle",
+      "abilityCode": "2F"
+    },
+    {
+      "code": "78",
+      "name": "Ice Missle",
+      "ability": "Icicle",
+      "abilityCode": "2F"
+    },
+    {
+      "code": "79",
+      "name": "On The Rocks",
+      "ability": "On The Rocks",
+      "abilityCode": "30"
+    },
+    {
+      "code": "7A",
+      "name": "Eternal Ice",
+      "ability": "On The Rocks",
+      "abilityCode": "30"
+    },
+    {
+      "code": "7B",
+      "name": "Diamond Dust",
+      "ability": "On The Rocks",
+      "abilityCode": "30"
+    },
+    {
+      "code": "7C",
+      "name": "Hailstorm",
+      "ability": "Hailstorm",
+      "abilityCode": "31"
+    },
+    {
+      "code": "7D",
+      "name": "Snowstorm",
+      "ability": "Hailstorm",
+      "abilityCode": "31"
+    },
+    {
+      "code": "7E",
+      "name": "Blizzard",
+      "ability": "Hailstorm",
+      "abilityCode": "31"
+    },
+    {
+      "code": "7F",
+      "name": "Whirlwind",
+      "ability": "Whirlwind",
+      "abilityCode": "32"
+    },
+    {
+      "code": "80",
+      "name": "Sandstorm",
+      "ability": "Whirlwind",
+      "abilityCode": "32"
+    },
+    {
+      "code": "81",
+      "name": "Cyclone",
+      "ability": "Whirlwind",
+      "abilityCode": "32"
+    },
+    {
+      "code": "82",
+      "name": "Breeze",
+      "ability": "Breeze",
+      "abilityCode": "33"
+    },
+    {
+      "code": "83",
+      "name": "Storm",
+      "ability": "Breeze",
+      "abilityCode": "33"
+    },
+    {
+      "code": "84",
+      "name": "Hurricane",
+      "ability": "Breeze",
+      "abilityCode": "33"
+    },
+    {
+      "code": "85",
+      "name": "Twister",
+      "ability": "Twister",
+      "abilityCode": "34"
+    },
+    {
+      "code": "86",
+      "name": "Jet Current",
+      "ability": "Twister",
+      "abilityCode": "34"
+    },
+    {
+      "code": "87",
+      "name": "Downburst",
+      "ability": "Twister",
+      "abilityCode": "34"
+    },
+    {
+      "code": "88",
+      "name": "Failling Rock",
+      "ability": "Falling Rock",
+      "abilityCode": "35"
+    },
+    {
+      "code": "89",
+      "name": "Landslide",
+      "ability": "Falling Rock",
+      "abilityCode": "35"
+    },
+    {
+      "code": "8A",
+      "name": "Avalanche",
+      "ability": "Falling Rock",
+      "abilityCode": "35"
+    },
+    {
+      "code": "8B",
+      "name": "Pebbles",
+      "ability": "Pebbles",
+      "abilityCode": "36"
+    },
+    {
+      "code": "8C",
+      "name": "Rock Crush",
+      "ability": "Pebbles",
+      "abilityCode": "36"
+    },
+    {
+      "code": "8D",
+      "name": "Comet Crash",
+      "ability": "Pebbles",
+      "abilityCode": "36"
+    },
+    {
+      "code": "8E",
+      "name": "Magnitude 3",
+      "ability": "Magnitude 3",
+      "abilityCode": "37"
+    },
+    {
+      "code": "8F",
+      "name": "Magnitude 6",
+      "ability": "Magnitude 3",
+      "abilityCode": "37"
+    },
+    {
+      "code": "90",
+      "name": "Magnitude 12",
+      "ability": "Magnitude 3",
+      "abilityCode": "37"
+    },
+    {
+      "code": "91",
+      "name": "Static",
+      "ability": "Static",
+      "abilityCode": "38"
+    },
+    {
+      "code": "92",
+      "name": "Shock",
+      "ability": "Static",
+      "abilityCode": "38"
+    },
+    {
+      "code": "93",
+      "name": "Spark",
+      "ability": "Static",
+      "abilityCode": "38"
+    },
+    {
+      "code": "94",
+      "name": "Lightning",
+      "ability": "Lightning",
+      "abilityCode": "39"
+    },
+    {
+      "code": "95",
+      "name": "Thunder",
+      "ability": "Lightning",
+      "abilityCode": "39"
+    },
+    {
+      "code": "96",
+      "name": "Bolt from the Blue",
+      "ability": "Lightning",
+      "abilityCode": "39"
+    },
+    {
+      "code": "97",
+      "name": "100 Volts",
+      "ability": "100 Volts",
+      "abilityCode": "3A"
+    },
+    {
+      "code": "98",
+      "name": "10000 Volts",
+      "ability": "100 Volts",
+      "abilityCode": "3A"
+    },
+    {
+      "code": "99",
+      "name": "1 Billion Volts",
+      "ability": "100 Volts",
+      "abilityCode": "3A"
+    },
+    {
+      "code": "9A",
+      "name": "Water Gun",
+      "ability": "Water Gun",
+      "abilityCode": "3B"
+    },
+    {
+      "code": "9B",
+      "name": "Water Cannon",
+      "ability": "Water Gun",
+      "abilityCode": "3B"
+    },
+    {
+      "code": "9C",
+      "name": "Mud Stream",
+      "ability": "Water Gun",
+      "abilityCode": "3B"
+    },
+    {
+      "code": "9D",
+      "name": "Bucket of Water",
+      "ability": "Bucket of Water",
+      "abilityCode": "3C"
+    },
+    {
+      "code": "9E",
+      "name": "Waterfall",
+      "ability": "Bucket of Water",
+      "abilityCode": "3C"
+    },
+    {
+      "code": "9F",
+      "name": "Jet Splash",
+      "ability": "Bucket of Water",
+      "abilityCode": "3C"
+    },
+    {
+      "code": "A0",
+      "name": "High Wave",
+      "ability": "High Wave",
+      "abilityCode": "3D"
+    },
+    {
+      "code": "A1",
+      "name": "Tidal Wave",
+      "ability": "High Wave",
+      "abilityCode": "3D"
+    },
+    {
+      "code": "A2",
+      "name": "Island Destroyer",
+      "ability": "High Wave",
+      "abilityCode": "3D"
+    },
+    {
+      "code": "A3",
+      "name": "Weak Flash",
+      "ability": "Weak Flash",
+      "abilityCode": "3E"
+    },
+    {
+      "code": "A4",
+      "name": "Bright Flash",
+      "ability": "Weak Flash",
+      "abilityCode": "3E"
+    },
+    {
+      "code": "A5",
+      "name": "Laser Beam",
+      "ability": "Weak Flash",
+      "abilityCode": "3E"
+    },
+    {
+      "code": "A6",
+      "name": "Spotlight",
+      "ability": "Spotlight",
+      "abilityCode": "3F"
+    },
+    {
+      "code": "A7",
+      "name": "Light Burst",
+      "ability": "Spotlight",
+      "abilityCode": "3F"
+    },
+    {
+      "code": "A8",
+      "name": "Flare",
+      "ability": "Spotlight",
+      "abilityCode": "3F"
+    },
+    {
+      "code": "A9",
+      "name": "Winter Sunlight",
+      "ability": "Winter Sunlight",
+      "abilityCode": "40"
+    },
+    {
+      "code": "AA",
+      "name": "Summer Sun",
+      "ability": "Winter Sunlight",
+      "abilityCode": "40"
+    },
+    {
+      "code": "AB",
+      "name": "Supernova",
+      "ability": "Winter Sunlight",
+      "abilityCode": "40"
+    },
+    {
+      "code": "AC",
+      "name": "Scare",
+      "ability": "Scare",
+      "abilityCode": "41"
+    },
+    {
+      "code": "AD",
+      "name": "Surprise",
+      "ability": "Scare",
+      "abilityCode": "41"
+    },
+    {
+      "code": "AE",
+      "name": "Dark Messenger",
+      "ability": "Scare",
+      "abilityCode": "41"
+    },
+    {
+      "code": "AF",
+      "name": "Dark Ball",
+      "ability": "Dark Ball",
+      "abilityCode": "42"
+    },
+    {
+      "code": "B0",
+      "name": "Black Whirl",
+      "ability": "Dark Ball",
+      "abilityCode": "42"
+    },
+    {
+      "code": "B1",
+      "name": "Black Hole",
+      "ability": "Dark Ball",
+      "abilityCode": "42"
+    },
+    {
+      "code": "B2",
+      "name": "Dark Mist",
+      "ability": "Dark Mist",
+      "abilityCode": "43"
+    },
+    {
+      "code": "B3",
+      "name": "Deep Shadow",
+      "ability": "Dark Mist",
+      "abilityCode": "43"
+    },
+    {
+      "code": "B4",
+      "name": "Abyss",
+      "ability": "Dark Mist",
+      "abilityCode": "43"
+    },
+    {
+      "code": "D4",
+      "name": "Hydro Storm",
+      "ability": "Hydro Storm",
+      "abilityCode": null
+    },
+    {
+      "code": "D5",
+      "name": "Shock Rock",
+      "ability": "Hydro Storm",
+      "abilityCode": null
+    },
+    {
+      "code": "D6",
+      "name": "Thundering Ground",
+      "ability": "Hydro Storm",
+      "abilityCode": null
+    },
+    {
+      "code": "D7",
+      "name": "Streaming Stones",
+      "ability": "Hydro Storm",
+      "abilityCode": null
+    },
+    {
+      "code": "D8",
+      "name": "Muddy Flood",
+      "ability": "Muddy Flood",
+      "abilityCode": null
+    },
+    {
+      "code": "D9",
+      "name": "Thunderstorm",
+      "ability": "Muddy Flood",
+      "abilityCode": null
+    },
+    {
+      "code": "DA",
+      "name": "Thunder Squall",
+      "ability": "Muddy Flood",
+      "abilityCode": null
+    },
+    {
+      "code": "DD",
+      "name": "Catch",
+      "ability": "Catch",
+      "abilityCode": "44"
+    },
+    {
+      "code": "DE",
+      "name": "Catch x2",
+      "ability": "Catch",
+      "abilityCode": "44"
+    },
+    {
+      "code": "DF",
+      "name": "Catch x3",
+      "ability": "Catch",
+      "abilityCode": "44"
+    }
+  ]
+}

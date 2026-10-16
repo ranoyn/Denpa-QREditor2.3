@@ -1,0 +1,286 @@
+category	code	en_name
+neck	0180	Wakeup Scarf
+neck	0181	Vision Scarf
+neck	0182	Shockproof Scarf
+neck	0183	Bib
+neck	0184	Antidote Scarf
+neck	0185	Spiked Choker
+neck	0186	Heart Choker
+neck	0187	Rose Choker
+neck	0188	Trusty Bell
+neck	0189	Wakeup Ribbon
+neck	018A	Vision Ribbon
+neck	018B	Shockproof Ribbon
+neck	018C	Darkness Amulet
+neck	018D	Fire Amulet
+neck	018E	Light Amulet
+neck	018F	Water Amulet
+neck	0190	Electric Amulet
+neck	0191	Earth Amulet
+neck	0192	Ice Amulet
+neck	0193	Wind Amulet
+neck	0194	Antifrost Ribbon
+neck	0195	Heatproof Ribbon
+neck	0196	Antidote Ribbon
+neck	0197	Christmas Corsage
+neck	0198	Necktie
+neck	0199	Detachable Collar
+neck	019A	Halloween Ribbon
+neck	019B	Frostproof Scarf
+neck	019C	Immunity Scarf
+neck	019D	Rubber Scarf
+neck	019E	Mudguard Scarf
+neck	019F	Waterproof Scarf
+neck	01A0	Heatproof Scarf
+neck	01A1	Holy Scarf
+neck	01A2	Mystery Scarf
+neck	01A3	Unwavering Ribbon
+neck	01A4	Healing Ribbon
+neck	01A5	Lucky Charm
+neck	01A6	Unwavering Scarf
+neck	01A7	Rearview Mirror
+neck	01A8	Mystery Ribbon
+neck	01A9	Lucky Star
+neck	01AA	Healing Scarf
+neck	01AB	Golden Choker
+neck	01AC	Heart Necklace
+neck	01AD	Fortune Charm
+neck	01AE	Lucky Charm+
+neck	01AF	Noble Scarf
+neck	01B0	Gold Pendant
+neck	01B1	Secret Star
+neck	01B2	Knitted Scarf
+back	01BA	Fan
+back	01BB	Red Cape
+back	01BC	Carrot
+back	01BD	Lollypop
+back	01BE	Swimming Ring
+back	01BF	Bushy Tail
+back	01C0	Flexible Tail
+back	01C1	Protect Cape
+back	01C2	Evade Cape
+back	01C3	Stuffed Toy
+back	01C4	Speed Cape
+back	01C5	Tough Shell
+back	01C6	Life Cape
+back	01C7	Will-o'-the-wisp
+back	01C8	Toy Sword
+back	01C9	Round Tail
+back	01CA	Porcelain Bottle
+back	01CB	Anchor
+back	01CC	Thunder Drum
+back	01CD	Bunny Tail
+back	01CE	Oink Tail
+back	01CF	Bone
+back	01D0	Toy Hammer
+back	01D1	Cupid Bow
+back	01D2	Plump Tail
+back	01D3	Pouch
+back	01D4	Bug Wings
+back	01D5	Guitar
+back	01D6	Mushroom Basket
+back	01D7	Magic Wand
+back	01D8	Wrapper
+back	01D9	Rocket Engine
+back	01DA	Backpack
+back	01DB	Feather Pen
+back	01DC	Guard Sushi
+back	01DD	Fallen Angel Wings
+back	01DE	Baby Ring
+back	01DF	Hero Cape
+back	01E0	Fairy Wings
+back	01E1	Dark Wings
+back	01E2	Surfboard
+back	01E3	Vampire Cape
+back	01E4	Bat Wings
+back	01E5	Shield
+back	01E6	Butterfly Wings
+back	01E7	Huge Key
+back	01E8	Animal Tail
+back	01E9	Power Sushi
+back	01EA	Royal Cape
+back	01EB	Scythe
+back	01EC	Demon Tail
+back	01ED	Guard Sushi+
+back	01EE	Dragon Wings
+back	01EF	Cape of Wisdom
+back	01F0	Monster Tail
+back	01F1	Lucky Kitty
+back	01F2	Holy Wings
+back	01F3	Legendary Sword
+back	01F4	Daruma Doll
+back	01F5	Power Sushi+
+back	01F6	Magic Broom
+back	01F7	Secret Scroll
+back	01F8	Throwing Stars
+arm	0200	Cheap Watch
+arm	0201	Kitchen Mittens
+arm	0202	Fire Bracelet
+arm	0203	Water Bracelet
+arm	0204	Earth Bracelet
+arm	0205	Wind Bracelet
+arm	0206	Ice Bracelet
+arm	0207	Light Bracelet
+arm	0208	Webbed Gloves
+arm	0209	Shock Bracelet
+arm	020A	Dark Bracelet
+arm	020B	Power Bracelet
+arm	020C	Knitted Mittens
+arm	020D	White Dress Gloves
+arm	020E	Black Dress Gloves
+arm	020F	Fire Gloves
+arm	0210	Water Gloves
+arm	0211	Earth Gloves
+arm	0212	Wind Gloves
+arm	0213	Ice Gloves
+arm	0214	Light Gloves
+arm	0215	Shock Gloves
+arm	0216	Rubber Gloves
+arm	0217	Sharp Claws
+arm	0218	Frilly Sleeves
+arm	0219	Waterproof Watch
+arm	021A	White Pads
+arm	021B	Black Pads
+arm	021C	Dark Gloves
+arm	021D	Leather Gloves
+arm	021E	Damage 4 Gloves
+arm	021F	Razorsharp Claws
+arm	0220	Power Gloves
+arm	0221	Noble Sleeves
+arm	0222	Noble Gloves
+arm	0223	Halloween Gloves
+arm	0224	Critical Bracelet
+arm	0225	Octopus Arms
+arm	0226	Christmas Gloves
+arm	0227	Fancy Watch
+arm	0228	Drill Hands
+feet	0230	Speed Anklet
+feet	0231	Fluffy Boots
+feet	0232	Speed Shoes
+feet	0233	Camouflage Boots
+feet	0234	Straw Sandals
+feet	0235	Leather Shoes
+feet	0236	White Paws
+feet	0237	Black Paws
+feet	0238	Pointy Shoes
+feet	0239	Speed Boots
+feet	023A	Kung Fu Shoes
+feet	023B	Rain Boots
+feet	023C	Forest Boots
+feet	023D	Mountain Boots
+feet	023E	Flippers
+feet	023F	Happy Anklet
+feet	0240	Safety Shoes
+feet	0241	Heal Boots
+feet	0242	Halloween Boots
+feet	0243	Lucky Anklet
+feet	0244	Ice Skates
+feet	0245	Ballet Shoes
+feet	0246	Lucky Boots
+feet	0247	Octopus Tentacles
+feet	0248	Dress Shoes
+feet	0249	Christmas Boots
+feet	024A	Magic Boots
+feet	024B	Roller Skates
+feet	024C	Monster Legs
+clothing	0654	Stripes
+clothing	0655	Borders
+clothing	0656	Tricolor
+clothing	0657	Checkers
+clothing	0658	Houndstooth
+clothing	0659	Argyle
+clothing	065A	Gingham
+clothing	065B	Tiles
+clothing	065C	Tartan
+clothing	065D	Blue Bird
+clothing	065E	Bramble
+clothing	065F	Chocolate
+clothing	0660	Biscuits
+clothing	0661	Denim
+clothing	0662	Zipper
+clothing	0663	Stuffed Toy
+clothing	0664	Fish Bone
+clothing	0665	Fish Print
+clothing	0666	Fawn Pattern
+clothing	0667	Arrows
+clothing	0668	Jellybeans
+clothing	0669	Buttons
+clothing	066A	Polka Dots
+clothing	066B	Fir Tree
+clothing	066C	Cobweb
+clothing	066D	Soccer
+clothing	066E	Baseball
+clothing	066F	Giraffe
+clothing	0670	Fish
+clothing	0671	Flower Line
+clothing	0672	Star Dust
+clothing	0673	Blossoms
+clothing	0674	Reptile
+clothing	0675	Aloha
+clothing	0676	Fireworks
+clothing	0677	Reindeer
+clothing	0678	Maple
+clothing	0679	Camouflage
+clothing	067A	Butterflies
+clothing	067B	Leaves
+clothing	067C	Melon Print
+clothing	067D	Lemon Print
+clothing	067E	Pepper Print
+clothing	067F	Persimmon Print
+clothing	0680	Bitter Gourd Print
+clothing	0681	Angel
+clothing	0682	Skulls
+clothing	0683	Puzzle
+clothing	0684	Target
+clothing	0685	Grape Print
+clothing	0686	Rose Print
+clothing	0687	Gerbera Print
+clothing	0688	Pansy Print
+clothing	0689	Hydrangea Print
+clothing	068A	Flames
+clothing	068B	Water
+clothing	068C	Wind
+clothing	068D	Earth
+clothing	068E	Ice
+clothing	068F	Electricity
+clothing	0690	Light
+clothing	0691	Darkness
+clothing	0692	Lily Print
+clothing	0693	Dart Board
+clothing	0694	Tiger
+clothing	0695	Zebra
+clothing	0696	Crescent
+clothing	0697	Starry Sky
+clothing	0698	Demon
+clothing	0699	Life Print
+clothing	069A	Power Print
+clothing	069B	Stamina Print
+clothing	069C	Speed Print
+clothing	069D	AP Print
+clothing	069E	Pumpkin
+clothing	069F	Cow
+clothing	06A0	Clovers
+clothing	06A1	Ornament
+clothing	06A2	Hearts
+clothing	06A3	Clubs
+clothing	06A4	Leopard
+clothing	06A5	Snow Leopard
+clothing	06A6	Waves
+clothing	06A7	Temptation
+clothing	06A8	Water Pillar
+clothing	06A9	Snow Crystals
+clothing	06AA	Scales
+clothing	06AB	Diamonds
+clothing	06AC	Flowers
+clothing	06AD	Incisor Print
+clothing	06AE	Robot
+clothing	06AF	Sun
+clothing	06B0	Spades
+clothing	06B1	D
+clothing	06B2	Love
+clothing	06B3	Natural
+clothing	06B4	Dwarf Print
+clothing	06B5	First Dwarf
+clothing	06B6	That Cute Girl
+clothing	06B7	Stars
+clothing	06B8	Number 1
