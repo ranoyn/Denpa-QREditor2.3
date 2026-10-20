@@ -16,13 +16,13 @@ public static class DenpaPublicTaskbarIdentity {
 }
 '@
 }
-$script:taskbarIdentityResult=[DenpaPublicTaskbarIdentity]::SetCurrentProcessExplicitAppUserModelID('Denpa.QREditor.Public.1.0.1')
+$script:taskbarIdentityResult=[DenpaPublicTaskbarIdentity]::SetCurrentProcessExplicitAppUserModelID('Denpa.QREditor.Public.1.0.2')
 
 $startupWindow=$null;$startupLabel=$null;$script:startupStages=@()
 if(-not$smokeMode-or$smokeMode-eq'template-layout'){
   $startupWindow=New-Object Windows.Forms.Form
   if($script:applicationIcon){$startupWindow.Icon=$script:applicationIcon}
-  $startupWindow.Text='Denpa QREditor2.3 1.0.1'
+  $startupWindow.Text='Denpa QREditor2.3 v1.0.2'
   $startupWindow.StartPosition='CenterScreen';$startupWindow.FormBorderStyle='FixedDialog'
   $startupWindow.ControlBox=$false;$startupWindow.ClientSize=New-Object Drawing.Size(380,90)
   $startupWindow.BackColor=[Drawing.Color]::White
@@ -153,6 +153,9 @@ $script:editorLabelEnglish['QR詳細設定']='Advanced QR Settings'
 $script:editorLabelEnglish['ランダムQR']='Random QR'
 $script:editorLabelEnglish['デバッグモード']='Debug Mode'
 $script:editorLabelEnglish['顔パーツ表']='Face Parts Table'
+$script:editorLabelEnglish['QR正規チェック']='QR Legitimacy Check'
+$script:editorLabelEnglish['MAC変換']='MAC Conversion'
+$script:editorLabelEnglish['未実装です']='Not implemented yet.'
 $script:editorLabelEnglish['ののガードを適用する']='Apply Nono Guard'
 $script:editorLabelEnglish['名前を個別入力']='Enter Names Individually'
 $script:editorLabelEnglish['RPG3 補正選択']='Select Ability for RPG3'
@@ -417,7 +420,7 @@ function Get-TransparentLogo([string]$Game) {
 }
 
 $form = New-Object Windows.Forms.Form
-$form.Text = 'Denpa QREditor2.3 1.0.1'
+$form.Text = 'Denpa QREditor2.3 v1.0.2'
 $form.ClientSize = New-Object Drawing.Size(1160, 710)
 $form.MinimumSize = New-Object Drawing.Size(1020, 680)
 $form.StartPosition = 'CenterScreen'
@@ -431,7 +434,7 @@ $top.BackColor = [Drawing.Color]::FromArgb(236, 247, 255)
 $form.Controls.Add($top)
 
 $title = New-Object Windows.Forms.Label
-$title.Text = 'Denpa QREditor2.3 1.0.1'
+$title.Text = 'Denpa QREditor2.3 v1.0.2'
 $title.Font = New-Object Drawing.Font('Yu Gothic UI', 17, [Drawing.FontStyle]::Bold)
 $title.AutoSize = $true
 $title.Location = New-Object Drawing.Point(28, 16)
@@ -440,16 +443,16 @@ $top.Controls.Add($title)
 $script:japaneseButton = New-Object Windows.Forms.Button
 $script:japaneseButton.Name = 'LanguageJapanese'
 $script:japaneseButton.Text = '日本語'
-$script:japaneseButton.Location = New-Object Drawing.Point(315, 20)
-$script:japaneseButton.Size = New-Object Drawing.Size(105, 38)
+$script:japaneseButton.Location = New-Object Drawing.Point(349, 20)
+$script:japaneseButton.Size = New-Object Drawing.Size(100, 38)
 $script:japaneseButton.FlatStyle = 'Flat'
 $top.Controls.Add($script:japaneseButton)
 
 $script:englishButton = New-Object Windows.Forms.Button
 $script:englishButton.Name = 'LanguageEnglish'
 $script:englishButton.Text = 'English'
-$script:englishButton.Location = New-Object Drawing.Point(430, 20)
-$script:englishButton.Size = New-Object Drawing.Size(105, 38)
+$script:englishButton.Location = New-Object Drawing.Point(459, 20)
+$script:englishButton.Size = New-Object Drawing.Size(100, 38)
 $script:englishButton.FlatStyle = 'Flat'
 $top.Controls.Add($script:englishButton)
 $script:japaneseButton.Add_Click({Set-EditorLanguage 'Japanese'})
@@ -519,8 +522,11 @@ function Set-EditorActionButtonLayout([Windows.Forms.Form]$Child){
   for($index=0;$index-lt5;$index++){
     $leftButton=New-Object Windows.Forms.Button
     $leftButton.Name=@('randomQrButton','qrImportPlaceholder','leftReserved1','leftReserved2','facePartsTableButton')[$index]
-    $leftButton.Text=@('ランダムQR','QRから電波入力','','','顔パーツ表')[$index]
-    $leftButton.Enabled=($index-lt2);$leftButton.TabStop=($index-lt2)
+    $leftButton.Text=@('ランダムQR','QRから電波入力','QR正規チェック','MAC変換','顔パーツ表')[$index]
+    $leftButton.Enabled=($index-lt4);$leftButton.TabStop=($index-lt4)
+    if($index-in@(2,3)){
+      $leftButton.Add_Click({[void][Windows.Forms.MessageBox]::Show((Convert-EditorControlText '未実装です' $state.Language),'Denpa QREditor2.3 v1.0.2',[Windows.Forms.MessageBoxButtons]::OK,[Windows.Forms.MessageBoxIcon]::Information)})
+    }
     $leftButton.Font=New-Object Drawing.Font('Yu Gothic UI',8)
     $leftButton.Location=New-Object Drawing.Point(690,(153+$index*58))
     $leftButton.Size=New-Object Drawing.Size(105,48);$Child.Controls.Add($leftButton)
@@ -833,7 +839,7 @@ function Show-Game([string]$Game) {
       $entry.Value.BackColor = if ($selected) { [Drawing.Color]::FromArgb(76, 34, 93, 173) } else { [Drawing.Color]::FromArgb(24, 255, 255, 255) }
       $entry.Value.FlatAppearance.BorderColor = if ($selected) { [Drawing.Color]::FromArgb(215, 32, 105, 196) } else { [Drawing.Color]::FromArgb(110, 82, 129, 169) }
     }
-    $form.Text = "Denpa QREditor2.3 1.0.1 - $Game"
+    $form.Text = "Denpa QREditor2.3 v1.0.2 - $Game"
   } finally { $state.Syncing = $false }
 }
 

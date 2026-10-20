@@ -6,10 +6,10 @@ using System.Text;
 using System.Windows.Forms;
 using System.Reflection;
 
-[assembly: AssemblyTitle("Denpa QREditor2.3 1.0.1")]
+[assembly: AssemblyTitle("Denpa QREditor2.3 v1.0.2")]
 [assembly: AssemblyProduct("Denpa QREditor2.3")]
-[assembly: AssemblyVersion("1.0.1.0")]
-[assembly: AssemblyFileVersion("1.0.1.0")]
+[assembly: AssemblyVersion("1.0.2.0")]
+[assembly: AssemblyFileVersion("1.0.2.0")]
 
 internal static class DenpaQREditorLauncher
 {
@@ -50,8 +50,8 @@ internal static class DenpaQREditorLauncher
         if (!File.Exists(script))
         {
             MessageBox.Show(
-                "起動に必要な内部ファイルが見つかりません。\nZIPの中から直接起動せず、先にフォルダーをすべて展開してから Denpa QREditor2.3 1.0.1.exe を開いてください。\n_appフォルダーは移動・改名・削除しないでください。",
-                "Denpa QREditor2.3 1.0.1",
+                "起動に必要な内部ファイルが見つかりません。\nZIPの中から直接起動せず、先にフォルダーをすべて展開してから Denpa QREditor2.3 v1.0.2.exe を開いてください。\n_appフォルダーは移動・改名・削除しないでください。",
+                "Denpa QREditor2.3 v1.0.2",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Error);
             return 2;
@@ -87,7 +87,7 @@ internal static class DenpaQREditorLauncher
             powershell = Path.Combine(windows, "SysWOW64", "WindowsPowerShell", "v1.0", "powershell.exe");
         if (!File.Exists(powershell))
         {
-            MessageBox.Show("Windows PowerShellが見つかりません。", "Denpa QREditor2.3 1.0.1", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show("Windows PowerShellが見つかりません。", "Denpa QREditor2.3 v1.0.2", MessageBoxButtons.OK, MessageBoxIcon.Error);
             return 3;
         }
 
@@ -127,7 +127,7 @@ internal static class DenpaQREditorLauncher
                     if (detail.Length > 1200) detail = detail.Substring(0, 1200);
                     MessageBox.Show(
                         "エディタを起動できませんでした。" + (detail.Length > 0 ? "\n\n" + detail : ""),
-                        "Denpa QREditor2.3 1.0.1",
+                        "Denpa QREditor2.3 v1.0.2",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Error);
                 }
@@ -136,7 +136,7 @@ internal static class DenpaQREditorLauncher
         }
         catch (Exception ex)
         {
-            MessageBox.Show("エディタを起動できませんでした。\n\n" + ex.Message, "Denpa QREditor2.3 1.0.1", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show("エディタを起動できませんでした。\n\n" + ex.Message, "Denpa QREditor2.3 v1.0.2", MessageBoxButtons.OK, MessageBoxIcon.Error);
             return 4;
         }
     }

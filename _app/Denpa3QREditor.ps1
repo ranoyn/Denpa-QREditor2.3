@@ -137,13 +137,13 @@ $decorAllNames = @($decorAllRows | ForEach-Object { $_.name }); $decorAllCodes =
 # 旧検証枠は実機検証を終えたため、通常のアイテム一覧には表示しない。
 
 $form = New-Object Windows.Forms.Form
-  $form.Text = 'Denpa QREditor2.3 1.0.1 - RPG3'
+  $form.Text = 'Denpa QREditor2.3 v1.0.2 - RPG3'
 $form.ClientSize = New-Object Drawing.Size(1260, 730)
 $form.StartPosition = 'CenterScreen'
 $form.Font = New-Object Drawing.Font('Yu Gothic UI', 10)
 
 $title = New-Object Windows.Forms.Label
-  $title.Text = 'Denpa QREditor2.3 1.0.1'
+  $title.Text = 'Denpa QREditor2.3 v1.0.2'
 $title.Font = New-Object Drawing.Font('Yu Gothic UI', 16, [Drawing.FontStyle]::Bold)
 $title.AutoSize = $true
 $title.Location = New-Object Drawing.Point(18, 14)
@@ -2326,7 +2326,7 @@ if ($env:DENPA_EDITOR_EMBED -eq '1') {
   return
 }
 if ((Split-Path -Leaf $PSScriptRoot) -eq 'internal') {
-  [Windows.Forms.MessageBox]::Show('このファイルは統合版の内部部品です。Denpa QREditor2.3 1.0.1.exeから起動してください。', 'Denpa QREditor2.3 1.0.1') | Out-Null
+  [Windows.Forms.MessageBox]::Show('このファイルは統合版の内部部品です。Denpa QREditor2.3 v1.0.2.exeから起動してください。', 'Denpa QREditor2.3 v1.0.2') | Out-Null
   $form.Dispose()
   return
 }
